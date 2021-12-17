@@ -3,7 +3,7 @@
 This repository is a part of IST computer architecture subject at VISTEC to peform the cache and branch prediction in the pipelining ISAs.
 
 ## Makefile
-To compile your simulator:
+To compile the simulator:
 ```
 $make
 ```
