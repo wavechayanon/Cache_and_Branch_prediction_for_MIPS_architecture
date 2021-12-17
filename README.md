@@ -10,7 +10,7 @@ $make
 To compile the simulator and verify it against the reference simulator using one or more test
 inputs:
 ```
-$ make verify INPUT=class-inputs/inst/addiu.x
-$ make verify INPUT=class-inputs/inst/*.x
+$ make verify INPUT=inputs/inst/addiu.x
+$ make verify INPUT=inputs/inst/*.x
 $ make verify
 ```
