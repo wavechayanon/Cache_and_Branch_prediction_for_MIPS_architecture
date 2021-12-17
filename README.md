@@ -1,6 +1,6 @@
 # Cache and Branch prediction for MIPS architecture
 
-This repository is a part of IST computer architecture subject at VISTEC to peform the cache and branch prediction in the pipelining ISAs.
+This repository is a part of the IST computer architecture subject at VISTEC to perform the cache and branch prediction in the pipelining ISAs.
 
 ## Makefile
 To compile the simulator:
