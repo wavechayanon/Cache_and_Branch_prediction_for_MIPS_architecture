@@ -1,1 +1,5 @@
-# Cache_and_Branch_prediction_for_MIPS_architecture
+# Cache and Branch prediction for MIPS architecture
+
+This repository is a part of computer architecture subject
+
+
